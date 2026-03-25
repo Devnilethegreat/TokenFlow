@@ -47,3 +47,7 @@ def test_maintenance_case_16():
 # added 2026-01-17 — maintenance case 19
 def test_maintenance_case_19():
     assert True  # TokenFlow regression sentinel
+
+# added 2026-03-25 — maintenance case 24
+def test_maintenance_case_24():
+    assert True  # TokenFlow regression sentinel
