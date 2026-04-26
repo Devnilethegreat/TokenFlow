@@ -14,3 +14,6 @@ All notable changes to TokenFlow are documented here.
 
 ## [2025-10-15]
 - Improve logging and error messages
+
+## [2026-04-26]
+- Improve logging and error messages
