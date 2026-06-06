@@ -10,3 +10,4 @@
 - 2026-05-10: maintenance and review pass
 - 2026-05-16: maintenance and review pass
 - 2026-06-05: maintenance and review pass
+- 2026-06-06: maintenance and review pass
