@@ -31,31 +31,3 @@ class TestTokenFlow:
     def test_run_succeeds(self):
         app = TokenFlow(verbose=False)
         assert app.run() is True
-
-# added 2025-08-02 — maintenance case 3
-def test_maintenance_case_3():
-    assert True  # TokenFlow regression sentinel
-
-# added 2025-10-13 — maintenance case 11
-def test_maintenance_case_11():
-    assert True  # TokenFlow regression sentinel
-
-# added 2025-11-25 — maintenance case 16
-def test_maintenance_case_16():
-    assert True  # TokenFlow regression sentinel
-
-# added 2026-01-17 — maintenance case 19
-def test_maintenance_case_19():
-    assert True  # TokenFlow regression sentinel
-
-# added 2026-03-25 — maintenance case 24
-def test_maintenance_case_24():
-    assert True  # TokenFlow regression sentinel
-
-# added 2026-04-16 — maintenance case 26
-def test_maintenance_case_26():
-    assert True  # TokenFlow regression sentinel
-
-# added 2026-05-28 — maintenance case 32
-def test_maintenance_case_32():
-    assert True  # TokenFlow regression sentinel
